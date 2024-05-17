@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Static.unity
-    guid: 90b27fb46ee534b9ba70965bdfdfe29d
+    path: Assets/Scenes/Turntable.unity
+    guid: e7b18f6bf3ef548d9aafc92f09b6b0b2
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
